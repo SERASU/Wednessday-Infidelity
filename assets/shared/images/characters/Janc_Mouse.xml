@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Janc Mouse.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Janc Idle instancia 10013" x="0" y="0" width="444" height="660" frameX="-7" frameY="0" frameWidth="457" frameHeight="660"/>,
+	<SubTexture name="Janc Left instancia 10000" x="444" y="0" width="642" height="626" frameX="0" frameY="0" frameWidth="643" frameHeight="627"/>
+	<SubTexture name="Janc Rigth instancia 10000" x="444" y="625" width="578" height="636" frameX="0" frameY="0" frameWidth="578" frameHeight="657"/>
+	<SubTexture name="Janc Up instancia 10000" x="1086" y="0" width="510" height="656" frameX="0" frameY="0" frameWidth="516" frameHeight="656"/>
+	<SubTexture name="ikNode_10000" x="1022" y="656" width="637" height="545" frameX="-7" frameY="-11" frameWidth="646" frameHeight="556"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"wistfulness",
+			"face",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"dejection",
+			"dad",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"unknown-suffering",
+			"mouse",
+			[
+				82,
+				89,
+				81
+			]
+	    ]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"weekCharacters": [
+		"",
+		"bf2",
+		"gf2"
+	],
+    "storyName": "Is Suicide Really the Best Option...?",
+	"weekName": "Suicide Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+             "Battered",
+			 "mouse",
+			 [
+				26,
+				26,
+				26
+			 ]
+        ]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"weekCharacters": [
+		"",
+		"bf2",
+		"gf2"
+	],
+    "storyName": "Bonus Song",
+	"weekName": "Hank?",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
